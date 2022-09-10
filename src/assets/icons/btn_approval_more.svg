@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>btn_approval_more</title>
+    <g id="btn_approval_more" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="矩形" stroke="#666666" stroke-width="3" x="1.5" y="1.5" width="10" height="10" rx="3"></rect>
+        <rect id="矩形备份-10" stroke="#666666" stroke-width="3" x="1.5" y="16.5" width="10" height="10" rx="3"></rect>
+        <rect id="矩形备份-5" stroke="#666666" stroke-width="3" x="16.5" y="1.5" width="10" height="10" rx="3"></rect>
+        <rect id="矩形备份-11" stroke="#666666" stroke-width="3" x="16.5" y="16.5" width="10" height="10" rx="3"></rect>
+    </g>
+</svg>

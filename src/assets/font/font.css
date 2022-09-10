@@ -1,0 +1,18 @@
+@font-face{
+  font-family: PingFangSC-Bold;
+  src:url('./PingFang_Bold.ttf')
+}
+
+@font-face{
+  font-family: PingFangSC-Reagular;
+  src:url('./PingFang-Regular.ttf')
+}
+
+@font-face{
+  font-family: PingFangSC-Medium;
+  src:url('./PingFang-Medium.ttf')
+}
+@font-face{
+  font-family: Roboto-Medium;
+  src:url('./Roboto-Medium-12.ttf')
+}

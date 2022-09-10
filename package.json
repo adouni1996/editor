@@ -1,0 +1,45 @@
+{
+  "name": "editor",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "vue-cli-service serve",
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "build-t": "vue-cli-service build --mode test",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "amfe-flexible": "^2.2.1",
+    "axios": "^0.27.2",
+    "core-js": "^3.8.3",
+    "devextreme": "~21.1.10",
+    "devextreme-vue": "~21.1.10",
+    "postcss-pxtorem": "^5.1.1",
+    "vue": "^2.6.14",
+    "vue-lazyload": "^3.0.0-rc.2",
+    "vue-router": "^3.5.1",
+    "vuex": "^3.6.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.16",
+    "@babel/eslint-parser": "^7.12.16",
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-eslint": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "eslint": "^7.32.0",
+    "eslint-friendly-formatter": "^4.0.1",
+    "eslint-loader": "^4.0.2",
+    "eslint-plugin-html": "^6.2.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-vue": "^8.0.3",
+    "eslint-webpack-plugin": "^3.1.1",
+    "less": "^4.0.0",
+    "less-loader": "^8.0.0",
+    "svg-sprite-loader": "^6.0.11",
+    "uglifyjs-webpack-plugin": "^2.2.0",
+    "vue-template-compiler": "^2.6.14"
+  }
+}
